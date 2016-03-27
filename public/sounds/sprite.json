@@ -1,0 +1,17 @@
+{
+  "resources": [
+    "sprite.mp3"
+  ],
+  "spritemap": {
+    "background": {
+      "start": 0,
+      "end": 27.0053125,
+      "loop": true
+    },
+    "laser": {
+      "start": 29,
+      "end": 29.44859375,
+      "loop": false
+    }
+  }
+}
